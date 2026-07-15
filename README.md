@@ -1,5 +1,7 @@
 # Temporal Impact
 
+[中文版 README](README.zh-CN.md)
+
 An embeddable, event-driven impact analysis engine for evolving applications.
 
 Temporal Impact receives host-system changes, maintains a shadow dependency graph, and
