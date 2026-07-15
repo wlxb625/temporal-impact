@@ -1,0 +1,1 @@
+{"event_id":"novel-false-death","event_type":"object.updated","source":"novel","project_id":"novel-demo","object":{"type":"character","id":"master"},"before":{"status":"dead"},"after":{"status":"hidden_alive"},"occurred_at":"2026-07-15T10:30:00+08:00"}

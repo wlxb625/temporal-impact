@@ -1,0 +1,1 @@
+{"event_id":"remove-currency","event_type":"object.deleted","source":"billing","project_id":"software","object":{"type":"api_field","id":"currency"},"before":{"type":"string"},"after":null,"occurred_at":"2026-07-15T10:30:00+08:00"}
